@@ -43,4 +43,5 @@ Currently the functions that are defined inside utils.py are:
 This is the notebook where dataset, dataset transformation and dataloaders are defined.
 There are also the blocks of code present to visualise and understand the input images.
 Finally model from model.py and functions from utils.py are imported in the notebook to train the model and test it's accuracy.
- 
+.
+. 
